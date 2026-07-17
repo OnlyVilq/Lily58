@@ -6217,7 +6217,7 @@
 	)
 	(global_label "ROW4_R"
 		(shape input)
-		(at 383.54 285.75 0)
+		(at 387.35 287.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6227,7 +6227,7 @@
 		)
 		(uuid "07aeb5b8-970b-4969-b374-130aea90cc1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.4521 285.6706 0)
+			(at 397.2621 286.9406 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6336,7 +6336,7 @@
 	)
 	(global_label "COL3_R"
 		(shape input)
-		(at 383.54 266.7 0)
+		(at 387.35 266.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6346,7 +6346,7 @@
 		)
 		(uuid "178121d7-c527-4928-8fc8-78e4566cbcd9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.0288 266.6206 0)
+			(at 396.8388 266.6206 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6549,7 +6549,7 @@
 	)
 	(global_label "LED_R"
 		(shape input)
-		(at 383.54 295.91 0)
+		(at 387.35 297.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6559,7 +6559,7 @@
 		)
 		(uuid "32aa04b3-5f45-4ab0-868b-5bf90c29ece7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 392.2099 295.91 0)
+			(at 396.0199 297.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6621,7 +6621,7 @@
 	)
 	(global_label "ROW3_R"
 		(shape input)
-		(at 383.54 283.21 0)
+		(at 387.35 284.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6631,7 +6631,7 @@
 		)
 		(uuid "41a9e7c3-f637-4771-9d8e-19e87a3f6614")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.4521 283.1306 0)
+			(at 397.2621 284.4006 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6784,7 +6784,7 @@
 	)
 	(global_label "ROW0_R"
 		(shape input)
-		(at 383.54 275.59 0)
+		(at 387.35 276.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6794,7 +6794,7 @@
 		)
 		(uuid "5efd042a-ecb6-427b-9969-6dd290cabdbb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.4521 275.5106 0)
+			(at 397.2621 276.7806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6948,7 +6948,7 @@
 	)
 	(global_label "COL1_R"
 		(shape input)
-		(at 383.54 261.62 0)
+		(at 387.35 261.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6958,7 +6958,7 @@
 		)
 		(uuid "72dd1d67-b319-4b17-8947-0c94d3b740b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.0288 261.5406 0)
+			(at 396.8388 261.5406 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7043,7 +7043,7 @@
 	)
 	(global_label "ROW2_R"
 		(shape input)
-		(at 383.54 280.67 0)
+		(at 387.35 281.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7053,7 +7053,7 @@
 		)
 		(uuid "78527e9e-ed04-4df7-8d51-1d485b087b97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.4521 280.5906 0)
+			(at 397.2621 281.8606 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7336,7 +7336,7 @@
 	)
 	(global_label "COL4_R"
 		(shape input)
-		(at 383.54 269.24 0)
+		(at 387.35 269.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7346,7 +7346,7 @@
 		)
 		(uuid "98244694-42eb-411a-b291-8308674fbd2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.0288 269.1606 0)
+			(at 396.8388 269.1606 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7560,7 +7560,7 @@
 	)
 	(global_label "SDA_2_R"
 		(shape input)
-		(at 383.54 292.1 0)
+		(at 387.35 293.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7570,7 +7570,7 @@
 		)
 		(uuid "b248dc82-aa47-48d2-97f0-e85ba2bfe270")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 394.508 292.1 0)
+			(at 398.318 293.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7584,7 +7584,7 @@
 	)
 	(global_label "ROW1_R"
 		(shape input)
-		(at 383.54 278.13 0)
+		(at 387.35 279.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7594,7 +7594,7 @@
 		)
 		(uuid "b2ac0535-33d3-4375-b63c-63fc4a7b5255")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.4521 278.0506 0)
+			(at 397.2621 279.3206 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7678,7 +7678,7 @@
 	)
 	(global_label "SCL_2_R"
 		(shape input)
-		(at 383.54 289.56 0)
+		(at 387.35 290.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7688,7 +7688,7 @@
 		)
 		(uuid "be1bcc96-a6ad-4d04-b2c2-5c879beb19d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 394.4475 289.56 0)
+			(at 398.2575 290.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7702,7 +7702,7 @@
 	)
 	(global_label "COL0_R"
 		(shape input)
-		(at 383.54 259.08 0)
+		(at 387.35 259.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7712,7 +7712,7 @@
 		)
 		(uuid "c0857313-8c18-4724-97e6-ed7a36409d96")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.0288 259.0006 0)
+			(at 396.8388 259.0006 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7879,7 +7879,7 @@
 	)
 	(global_label "COL2_R"
 		(shape input)
-		(at 383.54 264.16 0)
+		(at 387.35 264.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7889,7 +7889,7 @@
 		)
 		(uuid "d0c7b746-7c63-4ba0-b4b8-21fdec36ccfa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.0288 264.0806 0)
+			(at 396.8388 264.0806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7927,7 +7927,7 @@
 	)
 	(global_label "COL5_R"
 		(shape input)
-		(at 383.54 271.78 0)
+		(at 387.35 271.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7937,7 +7937,7 @@
 		)
 		(uuid "e6e43d4a-3be2-417b-bc42-84cb0dcbaee4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.0288 271.7006 0)
+			(at 396.8388 271.7006 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27518,192 +27518,6 @@
 		)
 	)
 	(sheet
-		(at 358.14 256.54)
-		(size 25.4 43.18)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "81abda92-0d15-47cd-8633-0cdaf69a41f4")
-		(property "Sheetname" "Right Hand Split"
-			(at 358.14 255.8284 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Right.kicad_sch"
-			(at 358.14 300.3046 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COL0" bidirectional
-			(at 383.54 259.08 0)
-			(uuid "fcd8692c-d2dd-4695-b011-c88fe620b2be")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COL1" bidirectional
-			(at 383.54 261.62 0)
-			(uuid "878387bf-d82f-4b03-a43f-a45aafc612e3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COL2" bidirectional
-			(at 383.54 264.16 0)
-			(uuid "d6c3830b-fc6f-4691-8f60-5b705c98fd9d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COL3" bidirectional
-			(at 383.54 266.7 0)
-			(uuid "d63c4c29-762d-4827-ae3b-a026c39d8712")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COL4" bidirectional
-			(at 383.54 269.24 0)
-			(uuid "dfce5d1f-3927-42c9-8367-6c210b182a9e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COL5" bidirectional
-			(at 383.54 271.78 0)
-			(uuid "c08182b8-a049-4241-ba01-761de0de82e6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "LED" bidirectional
-			(at 383.54 295.91 0)
-			(uuid "6c97f64e-0e3a-4fdd-8f6e-db940837a093")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ROW0" bidirectional
-			(at 383.54 275.59 0)
-			(uuid "d7f1496c-b47c-4844-81e8-c573208eea01")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ROW1" bidirectional
-			(at 383.54 278.13 0)
-			(uuid "45474811-8512-443d-b206-8f5460f1a1b5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ROW2" bidirectional
-			(at 383.54 280.67 0)
-			(uuid "32bab5d1-812d-4e8b-8ffc-66c03940c94b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ROW3" bidirectional
-			(at 383.54 283.21 0)
-			(uuid "e8127bba-9d86-492a-9cfd-55159bd2323d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ROW4" bidirectional
-			(at 383.54 285.75 0)
-			(uuid "c5fa652d-f24e-4a47-be80-7402cbdd21a4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SCL_2" bidirectional
-			(at 383.54 289.56 0)
-			(uuid "0328f131-554a-43c7-aef1-0bb6437206c8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SDA_2" bidirectional
-			(at 383.54 292.1 0)
-			(uuid "6a1028da-d167-45a1-9ec6-816d99cbee4a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Pro_V2"
-				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 379.73 74.93)
 		(size 24.13 43.18)
 		(exclude_from_sim no)
@@ -27885,6 +27699,192 @@
 			(project "Pro_V2"
 				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 363.22 257.81)
+		(size 24.13 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fe3789ee-f664-45f5-9696-d60aea11ece8")
+		(property "Sheetname" "Left Hand Split1"
+			(at 363.22 257.0984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Left.kicad_sch"
+			(at 363.22 301.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "COL0" bidirectional
+			(at 387.35 259.08 0)
+			(uuid "b8356257-888d-4405-a961-b9dd9b1233eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL1" bidirectional
+			(at 387.35 261.62 0)
+			(uuid "af0385e8-2c60-4712-b417-68f1c2eab891")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL2" bidirectional
+			(at 387.35 264.16 0)
+			(uuid "af00d9a9-1198-45ab-b041-1d7de0bfe76f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL3" bidirectional
+			(at 387.35 266.7 0)
+			(uuid "556d48e7-2900-4ef2-8e23-3e889d1f7cdf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL4" bidirectional
+			(at 387.35 269.24 0)
+			(uuid "899b5f66-0a4c-45d0-917a-71accf47549b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "COL5" bidirectional
+			(at 387.35 271.78 0)
+			(uuid "c95b49b6-2c5d-40de-8eb2-99bb72debeaf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED" bidirectional
+			(at 387.35 297.18 0)
+			(uuid "02e6e886-2898-435a-b1c9-e7f668998f21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW0" bidirectional
+			(at 387.35 276.86 0)
+			(uuid "7aedc9bd-bffb-4cf7-9e84-290346388630")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW1" bidirectional
+			(at 387.35 279.4 0)
+			(uuid "af5e8d9b-0ed8-4e9a-9c75-7fec0c41ce52")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW2" bidirectional
+			(at 387.35 281.94 0)
+			(uuid "438139f1-60b1-4400-967e-2c023b275ced")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW3" bidirectional
+			(at 387.35 284.48 0)
+			(uuid "296eb669-6e9a-4e6e-b3c5-70d71375ecf3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ROW4" bidirectional
+			(at 387.35 287.02 0)
+			(uuid "fdd4aaa8-6b82-405b-8ffd-ab4ed692547f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL_2" bidirectional
+			(at 387.35 290.83 0)
+			(uuid "0ef86f72-691c-4dc9-a202-5ca54d27f5c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA_2" bidirectional
+			(at 387.35 293.37 0)
+			(uuid "32d6b998-4bdd-44b5-b1e6-0c8ad28a311f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Pro_V2"
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120"
+					(page "3")
 				)
 			)
 		)

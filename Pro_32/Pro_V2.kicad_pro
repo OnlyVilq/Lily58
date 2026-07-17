@@ -75,6 +75,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.5,
+          "via_gap": 0.7,
+          "width": 0.5
         }
       ],
       "drc_exclusions": [],
@@ -219,7 +224,8 @@
         0.0,
         0.2,
         0.25,
-        0.5
+        0.5,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -253,8 +259,16 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.4,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.6,
-          "drill": 0.35
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": true,
@@ -861,7 +875,7 @@
         "uuid": "e4c6fdbb-fdc7-4ad4-a516-240d84cdc120"
       }
     ],
-    "used_designators": "STLED1-4,SD1-2,RSW1-2,H1-36,BSW1-2,C1-14,C25-26,TP1-36,R1-23,Q1,F1-2,U1-10,#PWR1-29,#PWR31-32,#PWR34-35,#PWR38,#PWR40-41,#PWR43-83,#PWR100-101,#PWR108,#PWR111-113,#PWR115-116,J1-8",
+    "used_designators": "#PWR24,#PWR50,U1,U3,U11-12",
     "variants": []
   },
   "sheets": [
@@ -874,8 +888,8 @@
       "Left Hand Split"
     ],
     [
-      "81abda92-0d15-47cd-8633-0cdaf69a41f4",
-      "Right Hand Split"
+      "fe3789ee-f664-45f5-9696-d60aea11ece8",
+      "Left Hand Split1"
     ]
   ],
   "text_variables": {},
