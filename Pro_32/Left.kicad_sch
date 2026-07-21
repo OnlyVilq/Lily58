@@ -2437,6 +2437,410 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:RotaryEncoder_Switch"
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 6.604 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RotaryEncoder_Switch"
+				(at 0 -6.604 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -3.81 4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 6.604 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "rotary switch encoder switch push button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "RotaryEncoder*Switch*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RotaryEncoder_Switch_0_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy -3.81 2.54) (xy -3.81 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -3.81 0) (xy -3.81 -1.016) (xy -3.302 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -3.81 -2.54) (xy -3.81 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.318 0) (xy -3.81 0) (xy -3.81 1.016) (xy -3.302 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -3.81 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -1.778) (xy -0.635 1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.381 0)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.381 -1.778) (xy -0.381 1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.381 -2.794)
+					(mid -3.0988 -0.0635)
+					(end -0.381 2.667)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.127 1.778) (xy -0.127 -1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 2.921) (xy -0.508 2.667) (xy 0.127 2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -3.048) (xy -0.508 -2.794) (xy 0.127 -2.413)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.016) (xy 3.81 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 0) (xy 3.429 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.318 1.016)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.318 -1.016)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 4.318 2.54) (xy 4.318 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 4.318 -2.54) (xy 4.318 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RotaryEncoder_Switch_1_1"
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "GND_1"
 			(power global)
 			(pin_numbers
@@ -2761,6 +3165,236 @@
 				)
 			)
 			(symbol "GND_11_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "GND_12"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_12_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_12_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "GND_13"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_13_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_13_1_1"
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
@@ -7057,6 +7691,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 161.29) (xy 121.92 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0121866b-7be9-4e69-af17-78d619b05d55")
+	)
+	(wire
+		(pts
 			(xy 63.5 24.13) (xy 69.85 24.13)
 		)
 		(stroke
@@ -7084,6 +7728,16 @@
 			(type default)
 		)
 		(uuid "0b32d311-d96e-48ff-93d6-f21ed8c97f90")
+	)
+	(wire
+		(pts
+			(xy 127 158.75) (xy 124.46 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0deb03b2-0550-4537-91ba-d2514912e5b8")
 	)
 	(wire
 		(pts
@@ -7154,6 +7808,16 @@
 			(type default)
 		)
 		(uuid "1485019d-036a-424f-a8af-dbc52894f6ff")
+	)
+	(wire
+		(pts
+			(xy 127 161.29) (xy 121.92 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "151294f2-5923-4399-a88d-6caf7934ec3c")
 	)
 	(wire
 		(pts
@@ -7267,6 +7931,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 156.21) (xy 144.78 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2be23863-30c7-4465-993d-2cac8adb97b5")
+	)
+	(wire
+		(pts
 			(xy 195.58 24.13) (xy 185.42 24.13)
 		)
 		(stroke
@@ -7297,6 +7971,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 163.83) (xy 144.78 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "309d7181-6b33-43ed-a5fd-7ee387e3adbd")
+	)
+	(wire
+		(pts
 			(xy 223.52 137.16) (xy 223.52 139.7)
 		)
 		(stroke
@@ -7317,6 +8001,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 158.75) (xy 144.78 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3656bdc0-eb17-4b67-bf3e-5dc228bab6ad")
+	)
+	(wire
+		(pts
 			(xy 144.78 62.23) (xy 147.32 62.23)
 		)
 		(stroke
@@ -7334,6 +8028,16 @@
 			(type default)
 		)
 		(uuid "3b007e5f-a754-4973-928c-bf44994de353")
+	)
+	(wire
+		(pts
+			(xy 119.38 156.21) (xy 119.38 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46e6d560-642a-4d2f-a17f-77326fd14647")
 	)
 	(wire
 		(pts
@@ -7515,6 +8219,16 @@
 		)
 		(uuid "69f0e2b4-22a4-429b-b7c3-ef98ccbc0370")
 	)
+	(wire
+		(pts
+			(xy 203.2 113.03) (xy 204.47 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6aab1d49-f4d2-40db-a5f3-d3f1d1ba4221")
+	)
 	(polyline
 		(pts
 			(xy 57.15 100.33) (xy 57.15 144.78)
@@ -7544,6 +8258,16 @@
 			(type default)
 		)
 		(uuid "70d49d0c-9f85-4561-b89a-00a2ef07d53c")
+	)
+	(wire
+		(pts
+			(xy 203.2 118.11) (xy 204.47 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76a17a41-9dc0-4c3d-939b-63aef559eb08")
 	)
 	(wire
 		(pts
@@ -7614,6 +8338,16 @@
 			(type default)
 		)
 		(uuid "7e976236-9e84-43a8-9100-fed175702e03")
+	)
+	(wire
+		(pts
+			(xy 203.2 115.57) (xy 204.47 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eab5d7e-640b-4420-aa5a-7d9ddb18f3c3")
 	)
 	(wire
 		(pts
@@ -7867,6 +8601,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 163.83) (xy 144.78 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa373b8d-28f5-4df9-906a-7a15c7463825")
+	)
+	(wire
+		(pts
 			(xy 203.2 52.07) (xy 205.74 52.07)
 		)
 		(stroke
@@ -8025,6 +8769,16 @@
 		)
 		(uuid "c60967f5-d938-44fa-9285-9dd5c3c6303c")
 	)
+	(wire
+		(pts
+			(xy 124.46 156.21) (xy 124.46 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c71ddc28-361e-4280-8c1d-75a683d3a64c")
+	)
 	(polyline
 		(pts
 			(xy 147.32 173.99) (xy 147.32 195.58)
@@ -8074,6 +8828,16 @@
 			(type default)
 		)
 		(uuid "d41f8240-ba4d-4bb1-a0ac-2ecb35057f50")
+	)
+	(wire
+		(pts
+			(xy 127 163.83) (xy 119.38 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d53b6e93-4a51-4243-9421-f6bec2247ff9")
 	)
 	(wire
 		(pts
@@ -8455,6 +9219,16 @@
 		)
 		(uuid "482fa296-a490-4afe-8807-61d2b5ba4da1")
 	)
+	(label "EncoderC"
+		(at 204.47 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c330374-a786-45ae-bb8e-b745da1e963a")
+	)
 	(label "IO27"
 		(at 205.74 92.71 0)
 		(effects
@@ -8515,6 +9289,16 @@
 		)
 		(uuid "63409805-fbd0-409c-8271-d69a9556ec28")
 	)
+	(label "EncoderS1"
+		(at 144.78 156.21 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7663e56f-d6be-4930-9607-98365fef48d8")
+	)
 	(label "SDA_2"
 		(at 205.74 102.87 0)
 		(effects
@@ -8555,6 +9339,16 @@
 		)
 		(uuid "85a219c2-acd0-477c-92dc-52d22015696c")
 	)
+	(label "EncoderA"
+		(at 204.47 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cd2c90c-fd2f-4bf2-b9eb-1e954b6c6fc2")
+	)
 	(label "COL4"
 		(at 205.74 80.01 0)
 		(effects
@@ -8564,6 +9358,16 @@
 			(justify left bottom)
 		)
 		(uuid "8d8770fa-6839-4b08-80a8-390877765dec")
+	)
+	(label "EncoderA"
+		(at 124.46 156.21 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8efdc364-5377-405a-ad8e-d88730a4b003")
 	)
 	(label "SCL"
 		(at 128.27 184.15 0)
@@ -8695,6 +9499,16 @@
 		)
 		(uuid "d04186cc-9f25-4538-a1a8-7e5a5c6a9948")
 	)
+	(label "EncoderS1"
+		(at 204.47 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d640473d-d04b-4339-afff-120480adbd31")
+	)
 	(label "ROW1"
 		(at 205.74 107.95 0)
 		(effects
@@ -8714,6 +9528,16 @@
 			(justify left bottom)
 		)
 		(uuid "dfac8020-3660-4e5d-9e86-24d904fa9846")
+	)
+	(label "EncoderC"
+		(at 119.38 156.21 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e515bc04-46ea-4af8-8997-25a84a477e74")
 	)
 	(label "COL0"
 		(at 144.78 57.15 180)
@@ -9567,6 +10391,99 @@
 				)
 				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/fe3789ee-f664-45f5-9696-d60aea11ece8"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:RotaryEncoder_Switch")
+		(at 134.62 161.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a3dbea7-2f16-4b95-849d-7a78e4277a46")
+		(property "Reference" "SW59"
+			(at 134.62 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RotaryEncoder_Switch"
+			(at 134.62 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+			(at 130.81 157.226 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 154.686 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 134.62 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "S1"
+			(uuid "c67ed76a-cdea-477d-b3f0-d8f16e1dddac")
+		)
+		(pin "C"
+			(uuid "b9afbc06-47a6-4c76-8b22-6427d632233d")
+		)
+		(pin "A"
+			(uuid "40c4018a-ccef-41b0-858d-8d9d010591ef")
+		)
+		(pin "S2"
+			(uuid "586abbbe-c8ed-49f0-85e7-c513f3fa0b68")
+		)
+		(pin "B"
+			(uuid "444ca3d3-eb82-4f52-b530-1708159958f1")
+		)
+		(instances
+			(project "Pro_V2"
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/90bf1b85-38df-45f1-9307-ddaf0248a4d2"
+					(reference "SW59")
+					(unit 1)
+				)
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/fe3789ee-f664-45f5-9696-d60aea11ece8"
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -11942,6 +12859,89 @@
 				)
 				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/fe3789ee-f664-45f5-9696-d60aea11ece8"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_13")
+		(lib_id "power:GND")
+		(at 121.92 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "754c2979-f5d6-4bf2-83e7-6f253b1ddb09")
+		(property "Reference" "#PWR083"
+			(at 121.92 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.92 171.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0131a218-1cea-45df-93a1-4800b011a98f")
+		)
+		(instances
+			(project "Pro_V2"
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/90bf1b85-38df-45f1-9307-ddaf0248a4d2"
+					(reference "#PWR083")
+					(unit 1)
+				)
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/fe3789ee-f664-45f5-9696-d60aea11ece8"
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -14433,6 +15433,89 @@
 				)
 				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/fe3789ee-f664-45f5-9696-d60aea11ece8"
 					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_12")
+		(lib_id "power:GND")
+		(at 144.78 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0466141-74d5-4193-8fec-b9328458b333")
+		(property "Reference" "#PWR081"
+			(at 144.78 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 144.78 171.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 144.78 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1c686c96-3ef5-4cc3-b45e-eb3d38accd09")
+		)
+		(instances
+			(project "Pro_V2"
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/90bf1b85-38df-45f1-9307-ddaf0248a4d2"
+					(reference "#PWR081")
+					(unit 1)
+				)
+				(path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/fe3789ee-f664-45f5-9696-d60aea11ece8"
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
